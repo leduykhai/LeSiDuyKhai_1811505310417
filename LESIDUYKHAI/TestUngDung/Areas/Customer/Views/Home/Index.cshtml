@@ -1,0 +1,32 @@
+﻿@model PagedList.IPagedList<Model.Model.Product>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Customer/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var item in Model)
+{
+    <div class="card col-sm-5" style="margin-left:10px;">
+        <div class="card-body">
+            <h4 class="card-title">@item.Name</h4>
+            <p class="card-text"><img src="~/Uploads/products/@ViewBag.yearURLImage-@ViewBag.monthURLImage/@item.Image" class="col-sm-12" style="height: 200px; margin: 0 auto;" /></p>
+            <p class="card-text">@item.Description</p>
+            <p class="card-text">Giá: @item.Price VNĐ</p>
+            <p class="card-text">Số Lượng: @item.Quantity</p>
+            <p class="card-text">
+                @if (@item.Status == false)
+                {
+                    <span class="text-danger alert-warning" style="font-weight: bolder;">Hết Hàng</span>
+                }
+                else
+                {
+                    <span class="text-success alert-warning" style="font-weight: bolder;">Còn Hàng</span>
+                }
+            </p>
+            <a href="#" class="card-link">Xem chi tiết</a>
+            <a href="#" class="card-link"><i class="fa fa-shopping-cart"></i></a>
+        </div>
+    </div>
+}
+

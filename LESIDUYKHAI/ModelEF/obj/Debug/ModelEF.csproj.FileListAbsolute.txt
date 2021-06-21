@@ -1,0 +1,47 @@
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\Model.dll.config
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\Model.dll
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\Model.pdb
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\EntityFramework.dll
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\PagedList.dll
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\PagedList.Mvc.dll
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\EntityFramework.xml
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\PagedList.xml
+D:\Documents\Docnet\OnlineShop - Copy\Model\bin\Debug\PagedList.Mvc.xml
+D:\Documents\Docnet\OnlineShop - Copy\Model\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+D:\Documents\Docnet\OnlineShop - Copy\Model\obj\Debug\ModelEF.csproj.CopyComplete
+D:\Documents\Docnet\OnlineShop - Copy\Model\obj\Debug\Model.dll
+D:\Documents\Docnet\OnlineShop - Copy\Model\obj\Debug\Model.pdb
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\Model.dll.config
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\Model.dll
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\Model.pdb
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\EntityFramework.dll
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\PagedList.dll
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\PagedList.Mvc.dll
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\EntityFramework.xml
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\PagedList.xml
+D:\Documents\Docnet\TranAnhMinh\Model\bin\Debug\PagedList.Mvc.xml
+D:\Documents\Docnet\TranAnhMinh\Model\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+D:\Documents\Docnet\TranAnhMinh\Model\obj\Debug\ModelEF.csproj.CopyComplete
+D:\Documents\Docnet\TranAnhMinh\Model\obj\Debug\Model.dll
+D:\Documents\Docnet\TranAnhMinh\Model\obj\Debug\Model.pdb
+D:\Documents\Docnet\TranAnhMinh\Model\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\Model.dll.config
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\Model.dll
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\Model.pdb
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\EntityFramework.dll
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\PagedList.dll
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\EntityFramework.xml
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\PagedList.xml
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\obj\Debug\Model.dll
+C:\Users\LE SI DUY KHAI\source\repos\LESIDUYKHAI\Model\obj\Debug\Model.pdb
